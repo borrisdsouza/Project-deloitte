@@ -1,0 +1,98 @@
+body{
+	background: #1a1a1a;
+	color:#ffffff;
+}
+
+.headingpart{}
+.headingpart h5{
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.slider{
+	margin-top: 20px;
+    margin-bottom: 40px;
+}
+.modal-body{
+    color: #1a1a1a;
+    text-align: center;
+    padding: 50px 50px 120px 50px;
+}
+.modal-body h2{
+	text-transform: uppercase;
+	font-weight: bolder;
+	letter-spacing: 2px;
+}
+.modal-body p{
+    color: #999999;
+    font-size: 17px;
+}
+.welcome{
+	text-align: center;
+}
+.welcome h1{
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+
+}
+.welcome h5{
+	color: #999999;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-bottom: 40px;
+
+}
+.welcome h5 span{
+    font-style: italic;
+  	text-transform: lowercase;
+  	letter-spacing: 0px;
+
+}
+.welcome h6{
+	font-size: 24px;
+	color: #999999;
+}
+a.visitlink{
+    text-decoration: none;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    padding: 25px 50px;
+    margin: 60px 0px;
+    display: inline-block;
+    font-size: 16px;
+    letter-spacing: 3px;
+}
+.imagewithcap{
+	position: relative;
+	margin-bottom: 30px;
+}
+.imagewithcap img{
+	width: 100%;
+}
+.clickforcap{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+.middlepart{
+    text-align: center;
+    margin: 15px 0px;
+    padding: 40px 0px;
+}
+.midtext{
+    margin-bottom: 50px;
+}
+.middlepart h4{
+    letter-spacing: 3px;
+    font-size: 24px;
+}
+.middlepart p{
+    color: #999999;
+    font-size: 18px;
+}
+.middleimages{
+
+}
