@@ -129,7 +129,6 @@ a.visitlink{
 .breakout h3{
     font-size: 30px;
     text-transform: uppercase;
-    font-family: "Avenir Next";
     color: #1a1a1a;
     margin-bottom: 60px;
     letter-spacing: 3px;
@@ -158,7 +157,6 @@ a.visitlink{
 	color: #ffffff;
 	font-size: 30px;
 	letter-spacing: 5px;
-    font-family: "Avenir Next";
 	text-transform: uppercase;
 }
 .footside p{
@@ -177,7 +175,6 @@ a.visitlink{
     font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 3px;
-	font-family: "Avenir Next";
 }
 .footbox p{
     font-size: 13px;
@@ -196,6 +193,5 @@ a.visitlink{
 	font-size: 11px;
 	color: #2e2e2e;
 	text-transform: uppercase;
-	font-family: "Avenir Next";
 	letter-spacing: 2px;
 }

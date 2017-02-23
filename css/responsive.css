@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-width: 980px){
+.welcome h1 {
+    font-size: 65px;
+}
+.welcome h6 br{
+	display: none;
+}
+.breakout h3 {
+    margin-top: 30px;
+}
+.breakout h3::before {
+    content: "";
+    top: 55px;
+}
+}
+@media only screen and (max-width: 640px){
+.welcome h1 {
+    font-size: 55px;
+}
+}
+@media only screen and (max-width: 480px){
+.welcome h1 {
+    font-size: 40px;
+}
+.welcome h6 {
+    font-size: 20px;
+}
+.middlepart p br{
+	display: none;
+}
+}
+@media only screen and (max-width: 390px){
+.breakout h3 {
+    font-size: 29px;
+}
+.clickforcap {
+    top: 5px;
+    right: 5px;
+}
+.clickforcap img{
+	width:25px;
+}
+}
